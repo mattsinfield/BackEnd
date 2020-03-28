@@ -4,12 +4,12 @@ const http = require('http');
 const moment = require('moment');
 
 const manager = {
-    name: 'bos',
+    name: 'bossy',
     age: 37,
 };
 
 const empl1 = {
-    name: 'Feed Blogs',
+    name: 'Fred Blogs',
     age: 28,
 };
 
