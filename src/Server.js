@@ -14,7 +14,7 @@ const empl1 = {
 };
 
 const empl2 = {
-    name: 'Doe Vasile',
+    name: 'Doe Strumpt',
     age: 34,
 };
 
